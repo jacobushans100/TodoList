@@ -3,13 +3,13 @@
 # Endpoint
 
 ## get data
-## router.get("/", getTodos)
+## get("http://localhost:6000/api/")
 
 ## post data
-## router.post("/", postTodo)
+## post("http://localhost:6000/api/")
 
 ## update data
-## router.put("/:id", updateTodo)
+## put("http://localhost:6000/api/:id")
 
 ## delete data
-## router.delete("/:id", deleteTodo)
+## delete("http://localhost:6000/api/:id")
