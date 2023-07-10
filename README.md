@@ -1,6 +1,6 @@
 # TodoList
 
-# Endpoint
+## Endpoint
 
 # get data
 # router.get("/", getTodos)
