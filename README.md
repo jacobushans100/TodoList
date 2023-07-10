@@ -1,15 +1,15 @@
 # TodoList
 
-## Endpoint
+# Endpoint
 
-# get data
-# router.get("/", getTodos)
+## get data
+## router.get("/", getTodos)
 
-# post data
-# router.post("/", postTodo)
+## post data
+## router.post("/", postTodo)
 
-# update data
-# router.put("/:id", updateTodo)
+## update data
+## router.put("/:id", updateTodo)
 
-# delete data
-# router.delete("/:id", deleteTodo)
+## delete data
+## router.delete("/:id", deleteTodo)
